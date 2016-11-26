@@ -3,7 +3,9 @@
 """
 Created on Sat Nov 26 16:46:14 2016
 
-@author: root
+@author: Nitin Bansal
+Working on MNIST dataset for Classification of Digits 
+Accuracy obtained up to 98%
 """
 from __future__ import absolute_import
 from __future__ import division
